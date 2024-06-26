@@ -8,7 +8,7 @@ private void creatleadTest() {
 	 String url = System.getProperty("url");
 	  String user = System.getProperty("username");
 	  String pwd = System.getProperty("password");
-	  String Browser = System.getProperty("browser");
+	  String Browser = System.getProperty("Browser");
 	  System.out.println(url+" "+user+" "+pwd+" "+Browser);
 System.out.println("execute creatcampaigentest");
 }
