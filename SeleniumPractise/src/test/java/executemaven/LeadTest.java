@@ -5,11 +5,11 @@ import org.testng.annotations.Test;
 public class LeadTest {
 @Test
 private void creatleadTest() {
-//	 String url = System.getProperty("url");
-//	  String user = System.getProperty("un");
-//	  String pwd = System.getProperty("pwd");
-//	  String Browser = System.getProperty("browser");
-//	  System.out.println(url+" "+user+" "+pwd+" "+Browser);
+	 String url = System.getProperty("url");
+	  String user = System.getProperty("un");
+	  String pwd = System.getProperty("pwd");
+	  String Browser = System.getProperty("browser");
+	  System.out.println(url+" "+user+" "+pwd+" "+Browser);
 System.out.println("execute creatcampaigentest");
 }
 @Test
